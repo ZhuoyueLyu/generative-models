@@ -1,4 +1,4 @@
-# 412-generative-models
+# Audio Interpolation and Translation Using Generative Models
 
 Generative models such as Adversarially Constrained Autoencoder Interpolation (ACAI), Variational Autoencoder (VAE), and Generative Adversarial Networks (GAN) have proven to be powerful to generate new data. Our goals of this project are to (1) explore the applicability of ACAI on image and music interpolation with hand-written digits and MIDI notes datasets, (2) apply BiGAN and VAE on speech generation with Free Spoken Digit Dataset (FSDD) dataset, and (3) apply MelGAN-VC for voice translation that transfers audio styles from one to another on the FSDD dataset. Based on our experiments, the GANs performed better on audio generation than other autoencoder related models. 
 
