@@ -12,4 +12,4 @@ The MIDI_parse.py won't run. It takes the clean_midi folder from the Lakh datase
 But the clean_midi folder is too large for github. 
 
 
-Please check out our [websites](https://zhuoyuelyu.github.io/generative_models/index.html) for the audio results
+Please check out our [website](https://zhuoyuelyu.github.io/generative_models/index.html) for the audio results
