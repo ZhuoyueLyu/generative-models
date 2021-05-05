@@ -10,3 +10,6 @@ The driver files that train the ACAI models are MNIST_ACAI.py or MIDI_ACAI under
 
 The MIDI_parse.py won't run. It takes the clean_midi folder from the Lakh dataset and extract several piano notes from midi files. 
 But the clean_midi folder is too large for github. 
+
+
+Please check out our [websites](https://zhuoyuelyu.github.io/generative_models/index.html) for the audio results
